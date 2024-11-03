@@ -1,0 +1,67 @@
+[
+    {"vehicleType":"moto","date":"2020-12-04T00:00:00.000Z","kilometers":34,"precioViaje":2.04},
+    {"vehicleType":"furgoneta","date":"2020-10-08T00:00:00.000Z","kilometers":180,"precioViaje":18.90},
+    {"vehicleType":"camion","date":"2020-03-18T00:00:00.000Z","kilometers":200,"precioViaje":32.00},
+    {"vehicleType":"moto","date":"2020-01-05T00:00:00.000Z","kilometers":42,"precioViaje":2.52},
+    {"vehicleType":"furgoneta","date":"2020-07-15T00:00:00.000Z","kilometers":160,"precioViaje":16.50},
+    
+    {"vehicleType":"camion","date":"2019-02-27T00:00:00.000Z","kilometers":275,"precioViaje":44.00},
+    {"vehicleType":"moto","date":"2019-04-15T00:00:00.000Z","kilometers":45,"precioViaje":2.70},
+    {"vehicleType":"furgoneta","date":"2019-07-12T00:00:00.000Z","kilometers":150,"precioViaje":15.75},
+    {"vehicleType":"camion","date":"2019-05-08T00:00:00.000Z","kilometers":220,"precioViaje":35.20},
+    {"vehicleType":"moto","date":"2019-09-23T00:00:00.000Z","kilometers":55,"precioViaje":3.30},
+
+    {"vehicleType":"moto","date":"2018-05-23T00:00:00.000Z","kilometers":50,"precioViaje":3.50},
+    {"vehicleType":"furgoneta","date":"2018-03-11T00:00:00.000Z","kilometers":135,"precioViaje":13.75},
+    {"vehicleType":"camion","date":"2018-07-17T00:00:00.000Z","kilometers":190,"precioViaje":30.40},
+    {"vehicleType":"moto","date":"2018-09-25T00:00:00.000Z","kilometers":40,"precioViaje":2.40},
+    {"vehicleType":"furgoneta","date":"2018-12-01T00:00:00.000Z","kilometers":170,"precioViaje":17.80},
+
+    {"vehicleType":"furgoneta","date":"2017-11-10T00:00:00.000Z","kilometers":120,"precioViaje":12.00},
+    {"vehicleType":"camion","date":"2017-02-22T00:00:00.000Z","kilometers":300,"precioViaje":48.00},
+    {"vehicleType":"moto","date":"2017-04-22T00:00:00.000Z","kilometers":60,"precioViaje":3.60},
+    {"vehicleType":"furgoneta","date":"2017-09-15T00:00:00.000Z","kilometers":125,"precioViaje":12.50},
+    {"vehicleType":"camion","date":"2017-06-05T00:00:00.000Z","kilometers":290,"precioViaje":47.00},
+
+    {"vehicleType":"camion","date":"2016-09-14T00:00:00.000Z","kilometers":300,"precioViaje":48.00},
+    {"vehicleType":"moto","date":"2016-05-17T00:00:00.000Z","kilometers":40,"precioViaje":2.40},
+    {"vehicleType":"furgoneta","date":"2016-08-19T00:00:00.000Z","kilometers":130,"precioViaje":13.00},
+    {"vehicleType":"moto","date":"2016-12-04T00:00:00.000Z","kilometers":32,"precioViaje":1.92},
+    {"vehicleType":"furgoneta","date":"2016-11-11T00:00:00.000Z","kilometers":150,"precioViaje":14.50},
+
+    {"vehicleType":"moto","date":"2015-04-04T00:00:00.000Z","kilometers":28,"precioViaje":1.68},
+    {"vehicleType":"furgoneta","date":"2015-09-18T00:00:00.000Z","kilometers":145,"precioViaje":14.10},
+    {"vehicleType":"camion","date":"2015-10-30T00:00:00.000Z","kilometers":350,"precioViaje":56.00},
+    {"vehicleType":"moto","date":"2015-11-21T00:00:00.000Z","kilometers":55,"precioViaje":3.30},
+    {"vehicleType":"furgoneta","date":"2015-12-19T00:00:00.000Z","kilometers":160,"precioViaje":16.00},
+
+    {"vehicleType":"camion","date":"2014-02-14T00:00:00.000Z","kilometers":240,"precioViaje":38.40},
+    {"vehicleType":"furgoneta","date":"2014-04-28T00:00:00.000Z","kilometers":110,"precioViaje":10.50},
+    {"vehicleType":"moto","date":"2014-06-16T00:00:00.000Z","kilometers":60,"precioViaje":3.60},
+    {"vehicleType":"camion","date":"2014-08-20T00:00:00.000Z","kilometers":320,"precioViaje":51.20},
+    {"vehicleType":"furgoneta","date":"2014-10-25T00:00:00.000Z","kilometers":140,"precioViaje":13.80},
+
+    {"vehicleType":"moto","date":"2013-03-22T00:00:00.000Z","kilometers":35,"precioViaje":2.10},
+    {"vehicleType":"camion","date":"2013-05-12T00:00:00.000Z","kilometers":270,"precioViaje":43.20},
+    {"vehicleType":"furgoneta","date":"2013-07-04T00:00:00.000Z","kilometers":150,"precioViaje":13.50},
+    {"vehicleType":"moto","date":"2013-10-10T00:00:00.000Z","kilometers":40,"precioViaje":2.40},
+    {"vehicleType":"furgoneta","date":"2013-11-15T00:00:00.000Z","kilometers":180,"precioViaje":16.20},
+
+    {"vehicleType":"camion","date":"2012-05-20T00:00:00.000Z","kilometers":280,"precioViaje":44.80},
+    {"vehicleType":"moto","date":"2012-07-07T00:00:00.000Z","kilometers":55,"precioViaje":3.30},
+    {"vehicleType":"furgoneta","date":"2012-08-30T00:00:00.000Z","kilometers":150,"precioViaje":12.75},
+    {"vehicleType":"camion","date":"2012-09-12T00:00:00.000Z","kilometers":310,"precioViaje":49.60},
+    {"vehicleType":"furgoneta","date":"2012-11-22T00:00:00.000Z","kilometers":135,"precioViaje":12.10},
+
+    {"vehicleType":"moto","date":"2011-04-04T00:00:00.000Z","kilometers":45,"precioViaje":2.70},
+    {"vehicleType":"furgoneta","date":"2011-06-13T00:00:00.000Z","kilometers":120,"precioViaje":10.80},
+    {"vehicleType":"camion","date":"2011-08-22T00:00:00.000Z","kilometers":320,"precioViaje":51.20},
+    {"vehicleType":"moto","date":"2011-10-18T00:00:00.000Z","kilometers":35,"precioViaje":2.10},
+    {"vehicleType":"furgoneta","date":"2011-11-20T00:00:00.000Z","kilometers":110,"precioViaje":9.90},
+
+    {"vehicleType":"camion","date":"2010-03-14T00:00:00.000Z","kilometers":340,"precioViaje":54.40},
+    {"vehicleType":"moto","date":"2010-06-19T00:00:00.000Z","kilometers":50,"precioViaje":3.00},
+    {"vehicleType":"furgoneta","date":"2010-07-11T00:00:00.000Z","kilometers":130,"precioViaje":11.70},
+    {"vehicleType":"camion","date":"2010-09-28T00:00:00.000Z","kilometers":280,"precioViaje":44.80},
+    {"vehicleType":"moto","date":"2010-11-05T00:00:00.000Z","kilometers":38,"precioViaje":2.28}
+]

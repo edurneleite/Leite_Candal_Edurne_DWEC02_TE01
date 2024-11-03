@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Costos de Combustible - Correos</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Calculadora de Costos de Combustible para Correos</h1>
+    </header>
+    <main>
+        <!-- Sección de Introducción de Datos -->
+        <section id="input-section">
+            <h2>Introducir Datos de Combustible</h2>
+            <form id="fuel-form">
+                <label for="vehicle-type">Tipo de Vehículo:</label>
+                <select id="vehicle-type" name="vehicle-type">
+                    <option value="furgoneta">Furgoneta</option>
+                    <option value="moto">Moto</option>
+                    <option value="camion">Camión</option>
+                </select>
+
+                <label for="date">Fecha del Gasto:</label>
+                <input type="date" value="2020-12-31" id="date" name="date" min="2010-01-01" max="2020-12-31" required>
+
+                <label for="kilometers">Kilómetros Recorridos:</label>
+                <input type="number" id="kilometers" name="kilometers" value="0" min="0" required>
+
+                <button type="submit" id="guardarGasto" >Guardar Gasto</button>
+            </form>
+        </section>
+
+        <!-- Sección de Visualización de Resultados -->
+        <section id="result-section">
+            <div id="result-display">
+                <!-- Sub-sección para mostrar los gastos añadidos recientemente -->
+                <div id="added-expenses">
+                    <h3>Gastos recientes:</h3>
+                    <ul id="expense-list">
+                        <!-- Los gastos añadidos se mostrarán aquí como una lista -->
+                    </ul>
+                </div>
+            
+                <!-- Sub-sección para mostrar el resultado del cálculo del costo por año -->
+                <div id="calculation-result">
+                    <h3>Gastos Totales:</h3>
+                    <ul id="result-list">
+                        <!-- Los resultados del cálculo se mostrarán aquí como una lista -->
+                        <li id="2020">El gasto para el año 2020 es <span style="font-weight: bold;" id="gasto2020">0</span></li>
+                        <li id="2019">El gasto para el año 2019 es <span style="font-weight: bold;" id="gasto2019">0</span></li>
+                        <li id="2018">El gasto para el año 2018 es <span style="font-weight: bold;" id="gasto2018">0</span></li>
+                        <li id="2017">El gasto para el año 2017 es <span style="font-weight: bold;" id="gasto2017">0</span></li>
+                        <li id="2016">El gasto para el año 2016 es <span style="font-weight: bold;" id="gasto2016">0</span></li>
+                        <li id="2015">El gasto para el año 2015 es <span style="font-weight: bold;" id="gasto2015">0</span></li>
+                        <li id="2014">El gasto para el año 2014 es <span style="font-weight: bold;" id="gasto2014">0</span></li>
+                        <li id="2013">El gasto para el año 2013 es <span style="font-weight: bold;" id="gasto2013">0</span></li>
+                        <li id="2012">El gasto para el año 2012 es <span style="font-weight: bold;" id="gasto2012">0</span></li>
+                        <li id="2011">El gasto para el año 2011 es <span style="font-weight: bold;" id="gasto2011">0</span></li>
+                        <li id="2010">El gasto para el año 2010 es <span style="font-weight: bold;" id="gasto2010">0</span></li>
+                    </ul>
+                </div>
+            </div>
+            
+        </section>
+    </main>
+    <script type="module" src="/js/main.js"></script>
+    <script src="/js/gastoCombustible.js"></script>
+
+</body>
+</html>

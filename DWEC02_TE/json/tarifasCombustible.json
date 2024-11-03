@@ -1,0 +1,93 @@
+{
+    "tarifas": [
+      {
+        "anio": 2020,
+        "vehiculos": {
+          "furgoneta": 0.10,
+          "moto": 0.06,
+          "camion": 0.16
+        }
+      },
+      {
+        "anio": 2019,
+        "vehiculos": {
+          "furgoneta": 0.09,
+          "moto": 0.05,
+          "camion": 0.15
+        }
+      },
+      {
+        "anio": 2018,
+        "vehiculos": {
+          "furgoneta": 0.09,
+          "moto": 0.05,
+          "camion": 0.14
+        }
+      },
+      {
+        "anio": 2017,
+        "vehiculos": {
+          "furgoneta": 0.08,
+          "moto": 0.04,
+          "camion": 0.13
+        }
+      },
+      {
+        "anio": 2016,
+        "vehiculos": {
+          "furgoneta": 0.08,
+          "moto": 0.04,
+          "camion": 0.13
+        }
+      },
+      {
+        "anio": 2015,
+        "vehiculos": {
+          "furgoneta": 0.07,
+          "moto": 0.04,
+          "camion": 0.12
+        }
+      },
+      {
+        "anio": 2014,
+        "vehiculos": {
+          "furgoneta": 0.07,
+          "moto": 0.04,
+          "camion": 0.11
+        }
+      },
+      {
+        "anio": 2013,
+        "vehiculos": {
+          "furgoneta": 0.06,
+          "moto": 0.03,
+          "camion": 0.10
+        }
+      },
+      {
+        "anio": 2012,
+        "vehiculos": {
+          "furgoneta": 0.06,
+          "moto": 0.03,
+          "camion": 0.10
+        }
+      },
+      {
+        "anio": 2011,
+        "vehiculos": {
+          "furgoneta": 0.05,
+          "moto": 0.03,
+          "camion": 0.09
+        }
+      },
+      {
+        "anio": 2010,
+        "vehiculos": {
+          "furgoneta": 0.05,
+          "moto": 0.03,
+          "camion": 0.09
+        }
+      }
+    ]
+  }
+  
