@@ -62,7 +62,7 @@ function calcularGastoTotal() {
     }
     //Sumar gasto total por años
     for (let anio in aniosArray){
-        let sumaTotal = 0; // Inicializar sumaTotal
+        let sumaTotal = 0; 
         gastosJSON.forEach(gasto => {
             let fecha = new Date(gasto.date);
             let anioGasto = fecha.getFullYear();
